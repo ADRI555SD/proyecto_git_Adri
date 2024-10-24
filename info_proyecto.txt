@@ -1,4 +1,9 @@
 Info proyecto
 Nueva linea como main (paso 17)
 Nueva linea de archivo (paso 13)
+<<<<<<< HEAD
 David
+=======
+Adrià Rocha Coll
+>>>>>>> 55b6b61bb159a929c128cdf3c28aa0590d2f611a
+David Nagy
